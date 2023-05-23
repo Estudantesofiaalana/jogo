@@ -1,2 +1,2 @@
-# jogo
-jogo
+# pongtwo
+Jogo pong no JavaScript
